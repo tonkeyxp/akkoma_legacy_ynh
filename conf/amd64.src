@@ -1,5 +1,5 @@
 SOURCE_URL=https://public-random-gabe.s3.pl-waw.scw.cloud/akkoma-amd64-debian-bullseye.zip
-SOURCE_SUM=25ed905fab1836986bfac8465a7925b8cb130f16d48746043b476fb6b5f156a7
+SOURCE_SUM=4a4c0858b4ad665fb4880860f31edfd65604fd6fe0cab2871bf26a64752e1265
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
