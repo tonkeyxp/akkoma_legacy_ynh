@@ -48,7 +48,7 @@
                 "type": "password"
             },
             {
-                "name": "name",
+                "name": "instname",
                 "type": "string",
                 "ask": {
                     "en": "Choose a name for your Akkoma instance",
