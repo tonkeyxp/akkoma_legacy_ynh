@@ -166,7 +166,7 @@ chown -R $app:$app "$datadir"
 ynh_script_progression --message="Adding a configuration file..." --weight=1
 
 config="/etc/$app/config.exs"
-
+AKKOMA_CONFIG_PATH=$config
 mkdir -p /etc/$app
 chown $app:$app /etc/$app
 
